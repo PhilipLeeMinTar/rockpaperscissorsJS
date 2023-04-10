@@ -1,0 +1,2 @@
+# rockpaperscissorsJS
+odin project foundations
